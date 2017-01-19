@@ -6,7 +6,7 @@ html {
   height: 300px;
   margin: 50px auto;
   width: 300px;
-  position:relative;
+  position: relative;
 
   background: transparent url("../images/clock-face.svg") no-repeat center center;
 }
@@ -34,7 +34,7 @@ html {
 @keyframes spin {
 
   0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg);}
+  100% { transform: rotate(360deg); }
 }
 
 .hand-minute {
